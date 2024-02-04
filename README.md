@@ -55,7 +55,7 @@
 ![Oracle](https://img.shields.io/badge/-oracle-222222?style=flat&logo=oracle&logoColor=F80000)
 
 
-##### Cloud
+########## Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
 
 ##### Version Control
