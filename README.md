@@ -21,7 +21,7 @@
 
 ##### Interface
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=61DAF)
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=EE2B24)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-222222?style=flat&logo=bootstrap&logoColor=#7952B3)
 ![tailwind](https://img.shields.io/badge/-tailwindcss-222222?style=flat&logo=tailwindcss&logoColor=#7952B3)
 ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=Flutter&logoColor=02569B)
