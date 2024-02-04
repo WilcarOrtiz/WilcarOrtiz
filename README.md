@@ -28,7 +28,7 @@
   <summary><b>⚡ technologies</b></summary>
   <br/>
 
-##### Languages I use
+Languages I use
 ![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
