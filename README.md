@@ -10,6 +10,7 @@
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 ## I am a systems engineering student
 
 - 👨‍💻 I am currently deepening my knowledge about angular, express.
@@ -71,7 +72,7 @@
 <br/>
 
 ---
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/WilcarOrtiz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WilcarOrtiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
