@@ -27,14 +27,14 @@
 <details>
   <summary><b>⚡ technologies</b></summary>
   <br/>
-	##### Idiomas que uso
-	![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
-	![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-	![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-	![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-	![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
- 	![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-	![Dart](https://img.shields.io/badge/-dart-222222?style=flat&logo=dart&logoColor=0175C2)
+##### Idiomas que uso
+![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+ ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Dart](https://img.shields.io/badge/-dart-222222?style=flat&logo=dart&logoColor=0175C2)
 
 ##### Interfaz
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
