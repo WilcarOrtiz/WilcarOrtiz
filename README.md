@@ -27,17 +27,16 @@
 <details>
   <summary><b>⚡ technologies</b></summary>
   <br/>
+	##### Idiomas que uso
+	![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
+	![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+	![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+	![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+	![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+ 	![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+	![Dart](https://img.shields.io/badge/-dart-222222?style=flat&logo=dart&logoColor=0175C2)
 
-Languages I use
-![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Dart](https://img.shields.io/badge/-dart-222222?style=flat&logo=dart&logoColor=0175C2)
-
-##### Interface
+##### Interfaz
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=EE2B24)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-222222?style=flat&logo=bootstrap&logoColor=#7952B3)
@@ -49,7 +48,7 @@ Languages I use
 ![Express](https://img.shields.io/badge/-express-222222?style=flat&logo=express&logoColor=#7952B3)
 
 
-##### Database
+##### Base de Datos
 ![MySql](https://img.shields.io/badge/-mysql-222222?style=flat&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-mongodb-222222?style=flat&logo=mongodb&logoColor=47A248)
 ![Oracle](https://img.shields.io/badge/-oracle-222222?style=flat&logo=oracle&logoColor=F80000)
@@ -58,18 +57,16 @@ Languages I use
 ########## Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
 
-##### Version Control
+##### Control de Versiòn
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
-##### IDE and some tools
+##### IDE | Herramientas
 ![vsCode](https://img.shields.io/badge/-visualstudiocode-222222?style=flat&logo=visualstudiocode&logoColor=5C2D91)
 ![Postman](https://img.shields.io/badge/-postman-222222?style=flat&logo=postman&logoColor=FF6C37)
-	
+
   <br/>
-
 </details>
-
 <br/>
 
 
