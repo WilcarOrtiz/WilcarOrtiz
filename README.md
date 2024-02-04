@@ -10,6 +10,17 @@
 
 ---
 
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+</p>
+
+<br>
+
 ##### Languages I use
 ![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
