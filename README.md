@@ -4,12 +4,10 @@
   I am <a href="https://github.com/WilcarOrtiz" >Wilcar Ortiz</a> 
 </h2>
 </div>
-</br>
-</br>
+
 </br>
 
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ## I am a systems engineering student
 
@@ -17,7 +15,7 @@
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
----
+
 ## Information of interest <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 <details> 
