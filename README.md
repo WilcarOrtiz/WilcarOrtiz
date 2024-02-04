@@ -24,6 +24,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=61DAF)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-222222?style=flat&logo=bootstrap&logoColor=#7952B3)
 ![tailwind](https://img.shields.io/badge/-tailwindcss-222222?style=flat&logo=tailwindcss&logoColor=#7952B3)
+![tailwind](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=Flutter&logoColor=#02569B)
 
 ##### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
