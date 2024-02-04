@@ -18,6 +18,32 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
+##### Interface
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=61DAF)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-222222?style=flat&logo=bootstrap&logoColor=#7952B3)
+![tailwind](https://img.shields.io/badge/-tailwindcss-222222?style=flat&logo=tailwindcss&logoColor=#7952B3)
 
+##### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-express-222222?style=flat&logo=express&logoColor=#7952B3)
+
+
+##### Database
+![MySql](https://img.shields.io/badge/-mysql-222222?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-mongodb-222222?style=flat&logo=mongodb&logoColor=47A248)
+![Oracle](https://img.shields.io/badge/-oracle-222222?style=flat&logo=oracle&logoColor=F80000)
+
+
+##### Cloud
+![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
+
+##### Version ControlIDE and some tools
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+
+##### IDE and some tools
+![vsCode](https://img.shields.io/badge/-visualstudiocode-222222?style=flat&logo=visualstudiocode&logoColor=5C2D91)
+![Postman](https://img.shields.io/badge/-postman-222222?style=flat&logo=postman&logoColor=FF6C37)
 
 ---
