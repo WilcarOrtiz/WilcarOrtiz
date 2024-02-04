@@ -9,7 +9,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## Information of interest <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 <details> 
   <summary><b>💻 Connect with me</b></summary>
@@ -27,6 +27,7 @@
 <details>
   <summary><b>⚡ technologies</b></summary>
   <br/>
+
 ##### Languages I use
 ![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
