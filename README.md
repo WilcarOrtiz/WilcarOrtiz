@@ -9,18 +9,24 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
+<details> 
+  <summary><b>💻 Connect with me</b></summary>
+  <br/>
+  <p align="center">
 <p align="left">
   <a href="https://www.linkedin.com/in/wilcarOrtiz" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
+  </p>
+</details>
 
-<br>
 
+<details>
+  <summary><b>⚡ technologies</b></summary>
+  <br/>
 ##### Languages I use
 ![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -58,32 +64,7 @@
 ##### IDE and some tools
 ![vsCode](https://img.shields.io/badge/-visualstudiocode-222222?style=flat&logo=visualstudiocode&logoColor=5C2D91)
 ![Postman](https://img.shields.io/badge/-postman-222222?style=flat&logo=postman&logoColor=FF6C37)
-
----
-
-
-
-
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+	
   <br/>
 
 </details>
