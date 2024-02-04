@@ -4,9 +4,12 @@
   I am <a href="https://github.com/WilcarOrtiz" >Wilcar Ortiz</a> 
 </h2>
 </div>
-  
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</br>
+</br>
+</br>
 
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 ## I am a systems engineering student
 
 - 👨‍💻 I am currently deepening my knowledge about angular, express.
@@ -18,9 +21,8 @@
 
 <details> 
   <summary><b>💻 Connect with me</b></summary>
-  <br/>
   <p align="center">
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/wilcarOrtiz" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
@@ -31,7 +33,9 @@
 
 <details>
   <summary><b>⚡ technologies</b></summary>
-  <br/>
+
+  
+<div align="center">
   
 ##### Idiomas que uso
 ![CSS](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
@@ -60,7 +64,7 @@
 ![Oracle](https://img.shields.io/badge/-oracle-222222?style=flat&logo=oracle&logoColor=F80000)
 
 
-########## Cloud
+##### Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
 
 ##### Control de Versiòn
@@ -70,12 +74,13 @@
 ##### IDE | Herramientas
 ![vsCode](https://img.shields.io/badge/-visualstudiocode-222222?style=flat&logo=visualstudiocode&logoColor=5C2D91)
 ![Postman](https://img.shields.io/badge/-postman-222222?style=flat&logo=postman&logoColor=FF6C37)
+</div>
 
   <br/>
 </details>
 <br/>
 
-
+---
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
