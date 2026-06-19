@@ -1,8 +1,15 @@
 
 <div align="center">
-<h2> Hi There, Welcome to my Github profile, <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
-  I am <a href="https://github.com/WilcarOrtiz" >Wilcar Ortiz</a> 
-</h2>
+  <h2>
+    Hi There! 👋 I am <a href="https://github.com/WilcarOrtiz">Wilcar Ortiz</a>
+  </h2>
+  <p>Systems Engineer · Cloud Application Developer · Full Stack Developer</p>
+  <a href="https://www.linkedin.com/in/wilcarOrtiz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.credly.com/users/wilcar-ortiz" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+  </a>
 </div>
 
 </br>
