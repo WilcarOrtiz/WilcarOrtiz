@@ -39,7 +39,7 @@ Full Stack Developer and Systems Engineer focused on building real-world project
 <br>
 
 ##  Tech Stack
-**Languages**
+Languages
 
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=openjdk&logoColor=ED8B00)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
@@ -49,14 +49,14 @@ Full Stack Developer and Systems Engineer focused on building real-world project
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
 
-**Backend**
+Backend
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-222222?style=flat&logo=springboot&logoColor=6DB33F)
 ![NestJS](https://img.shields.io/badge/-NestJS-222222?style=flat&logo=nestjs&logoColor=E0234E)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
 
-**Frontend & Mobile**
+Frontend & Mobile
 
 ![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=02569B)
@@ -65,7 +65,7 @@ Full Stack Developer and Systems Engineer focused on building real-world project
 ![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=7952B3)
 
-**Databases**
+Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql&logoColor=4479A1)
@@ -73,13 +73,13 @@ Full Stack Developer and Systems Engineer focused on building real-world project
 ![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis&logoColor=DC382D)
 ![Oracle](https://img.shields.io/badge/-Oracle-222222?style=flat&logo=oracle&logoColor=F80000)
 
-**Cloud & DevOps**
+Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
 ![Supabase](https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECF8E)
 ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase)
 
-**Tools**
+Tools
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
