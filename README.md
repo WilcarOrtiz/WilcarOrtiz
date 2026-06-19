@@ -4,12 +4,13 @@
     Hi There! 👋 I am <a href="https://github.com/WilcarOrtiz">Wilcar Ortiz</a>
   </h2>
   <p>Systems Engineer · Cloud Application Developer · Full Stack Developer</p>
-  <a href="https://www.linkedin.com/in/wilcarOrtiz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.credly.com/users/wilcar-daniel-ortiz-colpas" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/wilcarOrtiz" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/users/wilcar-daniel-ortiz-colpas" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
 </div>
 
 </br>
