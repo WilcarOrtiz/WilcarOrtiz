@@ -20,13 +20,10 @@
 
 </div>
 
----
-
 Full Stack Developer and Systems Engineer focused on building real-world projects while continuing to learn and share what I discover along the way. I enjoy learning by doing: building, breaking, improving, and rebuilding.
 
----
 
-## 🎯 Current Focus
+##  Current Focus
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"/>
 
@@ -38,68 +35,64 @@ Full Stack Developer and Systems Engineer focused on building real-world project
 -  **Cloud & Containerization** — Docker and cloud infrastructure
 -  **English B1 → B2** — Actively improving
 
----
+<br>
+<br>
 
-## 🛠️ Tech Stack
-
+##  Tech Stack
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=openjdk&logoColor=ED8B00)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-222222?style=flat&logo=dart&logoColor=0175C2)
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
 
 **Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-222222?style=flat&logo=springboot&logoColor=6DB33F)
+![NestJS](https://img.shields.io/badge/-NestJS-222222?style=flat&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
 
 **Frontend & Mobile**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-EE2B24?style=flat&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js)
+![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=02569B)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=EE2B24)
+![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=7952B3)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis&logoColor=DC382D)
+![Oracle](https://img.shields.io/badge/-Oracle-222222?style=flat&logo=oracle&logoColor=F80000)
 
 **Cloud & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
+![Supabase](https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-222222?style=flat&logo=intellijidea&logoColor=FE315D)
 
----
-
-## 📊 GitHub Analytics
-
+## GitHub Analytics <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 <div align="center">
   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WilcarOrtiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WilcarOrtiz&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
----
 
 <div align="center">
   <sub>🟢 Open to collaborate &nbsp;·&nbsp; 🇨🇴 Valledupar, Colombia</sub>
